@@ -26,3 +26,7 @@ Specifies the range around a spawnpoint building protection extends.
 
 ### Maps
 Stores the per-map spawnpoints. Use the `/AddSpawnpoint` and `/RemoveSpawnpoint` commands instead of editing this directly.
+
+## Download
+
+Download this plugin via the <a href="https://github.com/ShimmyMySherbet/SherbetSpawnpoints/releases">Releases</a> page.
